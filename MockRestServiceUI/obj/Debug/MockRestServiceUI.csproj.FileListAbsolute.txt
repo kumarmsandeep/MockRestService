@@ -1,0 +1,17 @@
+C:\Users\smaylavaram\documents\visual studio 2012\Projects\MockRestService\MockRestServiceUI\bin\Debug\MockRestServiceUI.exe.config
+C:\Users\smaylavaram\documents\visual studio 2012\Projects\MockRestService\MockRestServiceUI\bin\Debug\MockRestServiceUI.exe
+C:\Users\smaylavaram\documents\visual studio 2012\Projects\MockRestService\MockRestServiceUI\bin\Debug\MockRestServiceUI.pdb
+C:\Users\smaylavaram\documents\visual studio 2012\Projects\MockRestService\MockRestServiceUI\obj\Debug\MockRestServiceUI.csprojResolveAssemblyReference.cache
+C:\Users\smaylavaram\documents\visual studio 2012\Projects\MockRestService\MockRestServiceUI\obj\Debug\MainWindow.baml
+C:\Users\smaylavaram\documents\visual studio 2012\Projects\MockRestService\MockRestServiceUI\obj\Debug\MainWindow.g.cs
+C:\Users\smaylavaram\documents\visual studio 2012\Projects\MockRestService\MockRestServiceUI\obj\Debug\App.g.cs
+C:\Users\smaylavaram\documents\visual studio 2012\Projects\MockRestService\MockRestServiceUI\obj\Debug\MockRestServiceUI_MarkupCompile.cache
+C:\Users\smaylavaram\documents\visual studio 2012\Projects\MockRestService\MockRestServiceUI\obj\Debug\MockRestServiceUI.g.resources
+C:\Users\smaylavaram\documents\visual studio 2012\Projects\MockRestService\MockRestServiceUI\obj\Debug\MockRestServiceUI.Properties.Resources.resources
+C:\Users\smaylavaram\documents\visual studio 2012\Projects\MockRestService\MockRestServiceUI\obj\Debug\MockRestServiceUI.csproj.GenerateResource.Cache
+C:\Users\smaylavaram\documents\visual studio 2012\Projects\MockRestService\MockRestServiceUI\obj\Debug\MockRestServiceUI.exe
+C:\Users\smaylavaram\documents\visual studio 2012\Projects\MockRestService\MockRestServiceUI\obj\Debug\MockRestServiceUI.pdb
+C:\Users\smaylavaram\documents\visual studio 2012\Projects\MockRestService\MockRestServiceUI\obj\Debug\MockWorkspace.baml
+C:\Users\smaylavaram\documents\visual studio 2012\Projects\MockRestService\MockRestServiceUI\obj\Debug\MockWorkspace.g.cs
+C:\Users\smaylavaram\documents\visual studio 2012\Projects\MockRestService\MockRestServiceUI\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\smaylavaram\documents\visual studio 2012\Projects\MockRestService\MockRestServiceUI\obj\Debug\MockRestServiceUI_MarkupCompile.lref

@@ -1,0 +1,12 @@
+C:\Users\smaylavaram\documents\visual studio 2012\Projects\MockRestService\MockRestServiceUIBasic\bin\Release\MockRestServiceUIBasic.exe.config
+C:\Users\smaylavaram\documents\visual studio 2012\Projects\MockRestService\MockRestServiceUIBasic\bin\Release\MockRestServiceUIBasic.exe
+C:\Users\smaylavaram\documents\visual studio 2012\Projects\MockRestService\MockRestServiceUIBasic\bin\Release\MockRestServiceUIBasic.pdb
+C:\Users\smaylavaram\documents\visual studio 2012\Projects\MockRestService\MockRestServiceUIBasic\obj\Release\MockRestServiceUIBasic.csprojResolveAssemblyReference.cache
+C:\Users\smaylavaram\documents\visual studio 2012\Projects\MockRestService\MockRestServiceUIBasic\obj\Release\MockRestServiceUIBasic.APIView.resources
+C:\Users\smaylavaram\documents\visual studio 2012\Projects\MockRestService\MockRestServiceUIBasic\obj\Release\MockRestServiceUIBasic.Form1.resources
+C:\Users\smaylavaram\documents\visual studio 2012\Projects\MockRestService\MockRestServiceUIBasic\obj\Release\MockRestServiceUIBasic.MockView.resources
+C:\Users\smaylavaram\documents\visual studio 2012\Projects\MockRestService\MockRestServiceUIBasic\obj\Release\MockRestServiceUIBasic.MockWorkspace.resources
+C:\Users\smaylavaram\documents\visual studio 2012\Projects\MockRestService\MockRestServiceUIBasic\obj\Release\MockRestServiceUIBasic.Properties.Resources.resources
+C:\Users\smaylavaram\documents\visual studio 2012\Projects\MockRestService\MockRestServiceUIBasic\obj\Release\MockRestServiceUIBasic.csproj.GenerateResource.Cache
+C:\Users\smaylavaram\documents\visual studio 2012\Projects\MockRestService\MockRestServiceUIBasic\obj\Release\MockRestServiceUIBasic.exe
+C:\Users\smaylavaram\documents\visual studio 2012\Projects\MockRestService\MockRestServiceUIBasic\obj\Release\MockRestServiceUIBasic.pdb

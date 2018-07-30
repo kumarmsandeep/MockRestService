@@ -1,0 +1,15 @@
+C:\Users\smaylavaram\documents\visual studio 2012\Projects\MockRestService\MockRestServiceUIBasic\bin\Debug\MockRestServiceUIBasic.exe.config
+C:\Users\smaylavaram\documents\visual studio 2012\Projects\MockRestService\MockRestServiceUIBasic\bin\Debug\MockRestServiceUIBasic.exe
+C:\Users\smaylavaram\documents\visual studio 2012\Projects\MockRestService\MockRestServiceUIBasic\bin\Debug\MockRestServiceUIBasic.pdb
+C:\Users\smaylavaram\documents\visual studio 2012\Projects\MockRestService\MockRestServiceUIBasic\obj\Debug\MockRestServiceUIBasic.APIView.resources
+C:\Users\smaylavaram\documents\visual studio 2012\Projects\MockRestService\MockRestServiceUIBasic\obj\Debug\MockRestServiceUIBasic.Form1.resources
+C:\Users\smaylavaram\documents\visual studio 2012\Projects\MockRestService\MockRestServiceUIBasic\obj\Debug\MockRestServiceUIBasic.MockView.resources
+C:\Users\smaylavaram\documents\visual studio 2012\Projects\MockRestService\MockRestServiceUIBasic\obj\Debug\MockRestServiceUIBasic.MockWorkspace.resources
+C:\Users\smaylavaram\documents\visual studio 2012\Projects\MockRestService\MockRestServiceUIBasic\obj\Debug\MockRestServiceUIBasic.Properties.Resources.resources
+C:\Users\smaylavaram\documents\visual studio 2012\Projects\MockRestService\MockRestServiceUIBasic\obj\Debug\MockRestServiceUIBasic.csproj.GenerateResource.Cache
+C:\Users\smaylavaram\documents\visual studio 2012\Projects\MockRestService\MockRestServiceUIBasic\obj\Debug\MockRestServiceUIBasic.exe
+C:\Users\smaylavaram\documents\visual studio 2012\Projects\MockRestService\MockRestServiceUIBasic\obj\Debug\MockRestServiceUIBasic.pdb
+C:\Users\smaylavaram\documents\visual studio 2012\Projects\MockRestService\MockRestServiceUIBasic\obj\Debug\MockRestServiceUIBasic.csprojResolveAssemblyReference.cache
+C:\Users\smaylavaram\documents\visual studio 2012\Projects\MockRestService\MockRestServiceUIBasic\obj\Debug\MockRestServiceUIBasic.ListItem.resources
+C:\Users\smaylavaram\documents\visual studio 2012\Projects\MockRestService\MockRestServiceUIBasic\bin\Debug\MockRestService.exe
+C:\Users\smaylavaram\documents\visual studio 2012\Projects\MockRestService\MockRestServiceUIBasic\bin\Debug\MockRestService.pdb

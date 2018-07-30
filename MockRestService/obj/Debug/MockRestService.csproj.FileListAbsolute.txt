@@ -1,0 +1,9 @@
+C:\Users\smaylavaram\documents\visual studio 2012\Projects\MockRestService\MockRestService\bin\Debug\MockRestService.exe.config
+C:\Users\smaylavaram\documents\visual studio 2012\Projects\MockRestService\MockRestService\bin\Debug\MockRestService.exe
+C:\Users\smaylavaram\documents\visual studio 2012\Projects\MockRestService\MockRestService\bin\Debug\MockRestService.pdb
+C:\Users\smaylavaram\documents\visual studio 2012\Projects\MockRestService\MockRestService\obj\Debug\MockRestService.Form1.resources
+C:\Users\smaylavaram\documents\visual studio 2012\Projects\MockRestService\MockRestService\obj\Debug\MockRestService.Properties.Resources.resources
+C:\Users\smaylavaram\documents\visual studio 2012\Projects\MockRestService\MockRestService\obj\Debug\MockRestService.csproj.GenerateResource.Cache
+C:\Users\smaylavaram\documents\visual studio 2012\Projects\MockRestService\MockRestService\obj\Debug\MockRestService.exe
+C:\Users\smaylavaram\documents\visual studio 2012\Projects\MockRestService\MockRestService\obj\Debug\MockRestService.pdb
+C:\Users\smaylavaram\documents\visual studio 2012\Projects\MockRestService\MockRestService\obj\Debug\MockRestService.csprojResolveAssemblyReference.cache
